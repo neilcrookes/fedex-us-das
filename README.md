@@ -10,4 +10,4 @@ Current version is from the January 1, 2018 PDF https://www.fedex.com/content/da
 
 1. Preserve leading zeros
 1. Expand ranges, so `04344-04347` actually yields 4 items: `04344`, `04345`, `04346` and `04347`
-1. Key by surcharge types `contiguous_us`, `contiguous_u_s_extended`, `alaska`, `hawaii`, `intra_hawaii`
+1. Key by surcharge types `contiguous_us`, `contiguous_us_extended`, `alaska`, `hawaii`, `intra_hawaii`
