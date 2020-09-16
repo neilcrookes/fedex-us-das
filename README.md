@@ -4,7 +4,7 @@ Fedex Delivery Area Surcharge US ZIP Codes
 
 The JSON file is created from the Delivery Area Surcharge ZIP Codes List
 
-Current version is from the January 1, 2018 PDF https://www.fedex.com/content/dam/fedex/us-united-states/services/DAS_Contiguous_Extended_Alaska_Hawaii_2018.pdf
+Current version is from the January 6, 2020 PDF https://www.fedex.com/content/dam/fedex/us-united-states/services/DAS_Contiguous_Extended_Alaska_Hawaii_2020.pdf
 
 ## Objectives
 
